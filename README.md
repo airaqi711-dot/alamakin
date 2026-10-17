@@ -211,7 +211,7 @@
 
             <!-- زر الإرسال -->
             <button type="submit" class="btn-submit">تأكيد وإرسال طلب الحجز عبر الواتساب</button>
-        </form> https://wa.me/message/WLJCJTMDLKYWL1
+        </form> 
         
 
         <div class="footer-note">
@@ -251,8 +251,8 @@
                 `*ملاحظات إضافية:* ${notes}`;
 
             // فتح الواتساب ممرراً الرسالة
-            const whatsappURL = `https://wa.me/${companyWhatsAppNumber}?text=${message}`;
-            window.open([whatsappURL, '_blank'](https://wa.me/message/WLJCJTMDLKYWL1;
+            const whatsappURL = `https://wa.me/${+9647735647216}?text=${message}`;
+            window.open([whatsappURL, '_blank']
         });
     </script>
 </body>

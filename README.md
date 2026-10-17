@@ -251,7 +251,7 @@
                 `*ملاحظات إضافية:* ${notes}`;
 
             // فتح الواتساب ممرراً الرسالة
-            const whatsappURL = `https://wa.me/${+9647735647216}?text=${message}`;
+            const whatsappURL = https://wa.me/message/WLJCJTMDLKYWL1}?text=${message}`;
             window.open([whatsappURL, '_blank']
         });
     </script>

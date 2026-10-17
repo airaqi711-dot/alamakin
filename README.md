@@ -251,7 +251,7 @@
 
             // فتح الواتساب ممرراً الرسالة
             const whatsappURL = `https://wa.me/${companyWhatsAppNumber}?text=${message}`;
-            window.open(whatsappURL, '_blank');
+            window.open([whatsappURL, '_blank'](https://wa.me/message/PJEKXPKGWNFPH1));
         });
     </script>
 </body>

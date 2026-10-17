@@ -221,7 +221,7 @@ akamakin
     <!-- كود الجافا سكريبت لتحويل البيانات للواتساب -->
     <script>
         // ضع رقم واتساب الشركة هنا مع الرمز الدولي (مثال بالعراق: 9647XXXXXXXXX)
-        const companyWhatsAppNumber = "9647000000000"; 
+        const companyWhatsAppNumber = "9647724400996"; 
 
         document.getElementById('bookingForm').addEventListener('submit', function(e) {
             e.preventDefault();

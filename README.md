@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+akamakin 
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -211,8 +211,7 @@
 
             <!-- زر الإرسال -->
             <button type="submit" class="btn-submit">تأكيد وإرسال طلب الحجز عبر الواتساب</button>
-        </form> 
-        
+        </form>
 
         <div class="footer-note">
             جميع الحقوق محفوظة © شركة الأماكن للسفر والسياحة
@@ -251,8 +250,8 @@
                 `*ملاحظات إضافية:* ${notes}`;
 
             // فتح الواتساب ممرراً الرسالة
-            const whatsappURL = https://wa.me/message/WLJCJTMDLKYWL1}?text=${message}`;
-            window.open([whatsappURL, '_blank']
+            const whatsappURL = `https://wa.me/${9647735647216}?text=${message}`;
+            window.open(whatsappURL, '_blank');
         });
     </script>
 </body>

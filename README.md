@@ -211,7 +211,8 @@
 
             <!-- زر الإرسال -->
             <button type="submit" class="btn-submit">تأكيد وإرسال طلب الحجز عبر الواتساب</button>
-        </form>
+        </form> https://wa.me/message/WLJCJTMDLKYWL1
+        
 
         <div class="footer-note">
             جميع الحقوق محفوظة © شركة الأماكن للسفر والسياحة
